@@ -1,8 +1,11 @@
 # Exploratory-Data-Analysis
 
-**[Used Car Database](https://www.kaggle.com/orgesleka/used-cars-database)** dataset has been taken from kaggle since it is one of the ideal dataset for performing **EDA**
+Conducted Exploratory Data Analysis (EDA) on a Kaggle used car dataset to uncover insights into pricing trends, vehicle types, and sales patterns. Cleaned and preprocessed data by handling missing values and outliers, improving data quality. Created visualizations using Matplotlib and Seaborn to showcase key findings.
 
-  + The dataset is cleaned and stored in a **CleanData** folder which contains the entire cleaned dataset named as **[cleaned_autos.csv](CleanData/CleanedDataSet)** and another folder named **[DataForAnalysis](CleanData/DataForAnalysis)** containing files structures containing subsets of the cleaned dataset based on brand of the vehicles and vehicle types.  
+
++ **[Used Car Database](https://www.kaggle.com/orgesleka/used-cars-database)** dataset has been taken from kaggle since it is one of the ideal dataset for performing **EDA**
+
++ The dataset is cleaned and stored in a **CleanData** folder which contains the entire cleaned dataset named as **[cleaned_autos.csv](CleanData/CleanedDataSet)** and another folder named **[DataForAnalysis](CleanData/DataForAnalysis)** containing files structures containing subsets of the cleaned dataset based on brand of the vehicles and vehicle types.  
 ***
 ## Project Workflow
 
@@ -40,4 +43,10 @@
 
 + Write reusable scripts for analysis.
 
-
+## Tech Stack 
++ Python
++ Pandas
++ NumPy
++ Matplotlib
++ Seaborn
++ Jupyter Notebook
