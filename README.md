@@ -4,5 +4,40 @@
 
   + The dataset is cleaned and stored in a **CleanData** folder which contains the entire cleaned dataset named as **[cleaned_autos.csv](CleanData/CleanedDataSet)** and another folder named **[DataForAnalysis](CleanData/DataForAnalysis)** containing files structures containing subsets of the cleaned dataset based on brand of the vehicles and vehicle types.  
 ***
+## Project Workflow
+
+###  Data Exploration & Cleaning
+
++ Load the dataset and check for missing values.
+
++ Handle outliers (e.g., unrealistic prices, incorrect registration years).
+
++ Convert data types for consistency.
+
++ Save the cleaned dataset.
+
+### Exploratory Data Analysis (EDA)
+
++ Analyze price distribution based on vehicle type.
+
++ Count vehicles for sale by brand and compare price variations.
+
++ Compare average prices and power across fuel types.
+
++ Identify trends in brand-wise average prices.
+
++ Analyze the time taken to sell vehicles online.
+
+### Data Visualization & Insights
+
++ Generate histograms, boxplots, and bar charts.
+
++ Save visualizations for reporting.
+
+### Automation & Optimization
+
++ Automate data cleaning and structuring.
+
++ Write reusable scripts for analysis.
 
 
